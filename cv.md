@@ -8,7 +8,7 @@
 * __Discord:__ [tatiana_k](https://discord.com/channels/@tatiana_k#9386)
 
 ### About me
-I'm interested in gaining new knowledge and improving my skills in the field of front-end development to become a proficient specialist. Highly organized and detail-oriented. I really appreciate a friendly and respectful environment at work. And I'm equally good at completing tasks both in a team and on my own.
+   I'm interested in gaining new knowledge and improving my skills in the field of front-end development to become a proficient specialist. Highly organized and detail-oriented. I really appreciate a friendly and respectful environment at work. And I'm equally good at completing tasks both in a team and on my own.
 
 ### Skills
 * Git/GitHub
@@ -19,11 +19,14 @@ I'm interested in gaining new knowledge and improving my skills in the field of 
 * Adobe Photoshop
 
 ### Code example
-...
+```
+function multiply(a, b){
+  return a * b
+}
+```
 
 ### Experience
-* __Projects:__
-  -  ["CV#1. Markdown & Git"](https://tatiana-kasiyanik.github.io/rsschool-cv/cv)(Markdown, Git/GitHub)
+* __Projects:__ ["CV#1. Markdown & Git"](https://tatiana-kasiyanik.github.io/rsschool-cv/cv) (Markdown, Git/GitHub)
 
 ### Education
 * __University:__ Belarus State Economic University (Faculty of Commerce and Tourism Industry, Bachelor’s degree)
