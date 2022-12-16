@@ -7,3 +7,24 @@
    box-sizing: border-box;
 }
 
+body {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+}
+
+.container {
+   max-width: 1440px;
+   margin: 0 auto;
+}
+
+.nav-items {
+   display: flex;
+   justify-content: flex-end;
+   align-items: center;
+}
+
+html {
+   scroll-behavior: smooth;
+}
+
