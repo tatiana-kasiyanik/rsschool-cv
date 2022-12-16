@@ -28,3 +28,24 @@ html {
    scroll-behavior: smooth;
 }
 
+.nav-items {
+   list-style: none;
+}
+
+.nav-link {
+   padding: 0 20px;
+   line-height: 50px;
+   transition: .3s;
+}
+
+.nav-item a {
+   color: #000000;
+   text-decoration: none;
+   font-size: 10px;
+   transition: color 0.5s;
+}
+
+.nav-item a:hover {
+   color: #5b5b5b;
+} 
+
