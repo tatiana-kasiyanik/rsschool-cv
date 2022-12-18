@@ -26,8 +26,8 @@ body {
    margin: 0;
    padding: 0;
    font-family: 'Montserrat', sans-serif;
-   font-size: 18px;
-   font-weight: bold;
+   font-size: 19px;
+   font-weight: normal;
    line-height: 1.5;
    color: #404040;
    background-color: #fafafa;
@@ -56,7 +56,7 @@ body {
 }
 
 .nav-item a:hover {
-   color: #D4E8D4;
+   color: #819C81;
 } 
 
 .main-container {
@@ -66,6 +66,7 @@ body {
 
 .section {
    width: 50%;
+   padding: 20px 30px 10px 30px;
 }
 
 @media (max-width: 768px) {
@@ -74,22 +75,74 @@ body {
    }
 }
 
-.section-title {
-   font-size: 20px;
-   font-weight: 400;
+.section-profile {
+   display: flex;
+   width: 100%;
+   padding: 10px;
+   justify-content: space-around;
+   background-color: #E1EEE1;
+}
+
+.profile-image {
+   width: 215px;
+   height: 215px;
+   border-radius: 50%;
+   border: 10px solid #fafafa;
+}
+
+.profile-title {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   text-align: center;
+}
+
+.profile-main-title {
+   margin-bottom: 10px;
    text-transform: uppercase;
    letter-spacing: 5px;
-   color: #5b5b5b;
+}
+
+.profile-subtitle {
+   margin-top: 10px;
+   letter-spacing: 0.5px;
+}
+
+.section-title {
+   font-size: 19px;
+   text-transform: uppercase;
+   letter-spacing: 4px;
+   border-bottom: 3px solid #E1EEE1;
+}
+
+.section-items {
+   padding-left: 15px;
+   list-style-type: square;
+}
+
+.section-item {
+   margin-bottom: 8px;
 }
 
 .section-item a {
+   color: #819C81C9;
    text-decoration: none;
-   color: #5b5b5b;
    transition: color 0.5s;
 }
 
 .section-item a:hover {
-   color: #5d7260;
+   color: #404040;
+}
+
+.section-subtitle {
+   margin-top: 19px;
+   margin-bottom: 0;
+   letter-spacing: 2px;
+}
+
+.footer {
+   color: #fafafa;
+   background-color: #545454;
 }
 
 .logo {
