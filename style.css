@@ -1,12 +1,12 @@
 @font-face {
-   font-family: Montserrat;
-   src: url(assets/fonts/Montserrat-Light.ttf);
+   font-family: 'Montserrat';
+   src: url("assets/fonts/Montserrat-Light.ttf");
    font-weight: normal;
 }
 
 @font-face {
-   font-family: Montserrat;
-   src: url(assets/fonts/Montserrat-Regular.ttf);
+   font-family: 'Montserrat';
+   src: url("assets/fonts/Montserrat-Regular.ttf");
    font-weight: bold;
 }
 
@@ -154,7 +154,7 @@ body {
 .logo {
    width: 110px;
    height: 35px;
-   background-image: url('https://rs.school/images/rs_school_js.svg');
+   background-image: url("https://rs.school/images/rs_school_js.svg");
    background-size: contain;
    background-repeat: no-repeat;
 }
@@ -174,4 +174,4 @@ body {
 
 .footer-link:hover {
    color: #fafafa;
-} 
+}
