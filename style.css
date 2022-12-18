@@ -141,14 +141,37 @@ body {
 }
 
 .footer {
-   color: #fafafa;
+   padding: 25px 60px;
    background-color: #545454;
 }
 
-.logo {
-width: 121px;
-height: 45px;
-background-image: url('https://rs.school/images/rs_school_js.svg');
-background-size: contain;
-background-repeat: no-repeat;
+.footer-container {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
 }
+
+.logo {
+   width: 110px;
+   height: 35px;
+   background-image: url('https://rs.school/images/rs_school_js.svg');
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+
+.footer-row {
+   font-size: 17px;
+   font-weight: bold;
+   color: #000000;
+}
+
+.footer-link {
+   padding: 0 10px;
+   color: #000000;
+   text-decoration: none;
+   transition: color 0.5s;
+}
+
+.footer-link:hover {
+   color: #fafafa;
+} 
