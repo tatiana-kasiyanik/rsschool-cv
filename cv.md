@@ -26,11 +26,18 @@ function multiply(a, b){
 ```
 
 ### Experience
-* __Projects:__ ["CV#1. Markdown & Git"](https://tatiana-kasiyanik.github.io/rsschool-cv/cv) (Markdown, Git/GitHub)
+__Projects:__ 
+* ["CV#1. Markdown & Git"](https://tatiana-kasiyanik.github.io/rsschool-cv/cv) (Markdown, Git/GitHub)
+* ["CV#2. HTML & CSS"](https://tatiana-kasiyanik.github.io/rsschool-cv/) (HTML, CSS)
+* ["Plants"](https://rolling-scopes-school.github.io/tatiana-kasiyanik-JSFEPRESCHOOL2022Q4/plants/) (HTML, CSS, Figma, JS)
+* ["Momentum"](https://rolling-scopes-school.github.io/tatiana-kasiyanik-JSFEPRESCHOOL2022Q4/momentum/) (HTML, CSS, JS)
 
 ### Education
-* __University:__ Belarus State Economic University (Faculty of Commerce and Tourism Industry, Bachelor’s degree)
-* __Courses:__ RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+__University:__ 
+* Belarus State Economic University (Faculty of Commerce and Tourism Industry, Bachelor’s degree)
+__Courses:__ 
+* RS Schools Course «JavaScript/Front-end. Pre-School»
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ### Language
 * English - Intermediate (I'm improving my language skills with a tutor)
