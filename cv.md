@@ -39,7 +39,7 @@ __University:__
 
 __Courses:__ 
 * RS Schools Course «JavaScript/Front-end. Pre-School»
-* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* RS Schools Course «JavaScript/Front-end» (in progress)
 
 ### Language
 * English - Intermediate (I'm improving my language skills with a tutor)
