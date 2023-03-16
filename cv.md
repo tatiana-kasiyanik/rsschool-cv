@@ -35,6 +35,7 @@ __Projects:__
 ### Education
 __University:__ 
 * Belarus State Economic University (Faculty of Commerce and Tourism Industry, Bachelor’s degree)
+
 __Courses:__ 
 * RS Schools Course «JavaScript/Front-end. Pre-School»
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
