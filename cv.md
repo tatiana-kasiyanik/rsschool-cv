@@ -8,7 +8,7 @@
 * __Discord:__ [tatiana_k](https://discord.com/channels/@tatiana_kas)
 
 ### About me
-   I'm interested in gaining new knowledge and improving my skills in the field of front-end development to become a proficient specialist. Highly organized and detail-oriented. I really appreciate a friendly and respectful environment at work. And I'm equally good at completing tasks both in a team and on my own.
+I'm interested in gaining new knowledge and improving my skills in the field of front-end development to become a proficient specialist. Highly organized and detail-oriented. I really appreciate a friendly and respectful environment at work. And I'm equally good at completing tasks both in a team and on my own.
 
 ### Skills
 * Git/GitHub
