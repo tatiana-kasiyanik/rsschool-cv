@@ -30,7 +30,7 @@ __Projects:__
 * ["CV"](https://tatiana-kasiyanik.github.io/rsschool-cv/)
 * ["Plants"](https://rolling-scopes-school.github.io/tatiana-kasiyanik-JSFEPRESCHOOL2022Q4/plants/)
 * ["Shelter"](https://rolling-scopes-school.github.io/tatiana-kasiyanik-JSFE2023Q1/shelter/)
-* ["Virtual Keyboard"](hhttps://tatiana-kasiyanik.github.io/virtual-keyboard/)
+* ["Virtual Keyboard"](https://tatiana-kasiyanik.github.io/virtual-keyboard/)
 * ["Minesweeper"](https://rolling-scopes-school.github.io/tatiana-kasiyanik-JSFE2023Q1/minesweeper/)
 * ["Coffee House"](https://rolling-scopes-school.github.io/tatiana-kasiyanik-JSFE2023Q4/coffee-house/)
 
